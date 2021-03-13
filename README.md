@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RishivikramN
+- 👀 I’m interested in Full stack web development and Artificial Intelligence
+- 🌱 I’m currently learning Advanced skills in web development and AI.
+- 📫 you can reach me on LinkedIn https://www.linkedin.com/in/rishivikram-nandakumar/
