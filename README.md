@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RishivikramN
-- 👀 I’m interested in Full stack web development and Artificial Intelligence
-- 🌱 I’m currently learning Advanced skills in web development and AI.
+- 👀 I am a full stack developer currently working with AWS serverless applications that are integrated with react client
+- 🌱 I’m currently building products from an early stage in a startup
 - 📫 you can reach me on LinkedIn https://www.linkedin.com/in/rishivikram-nandakumar/
