@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Rishi</h1>
 <p align="center">
   <samp>
-      I'm a backend developer based in Bangalore, India with a passion for building SAAS products. I have the ability to design, develop and deploy all the problems with code. When I'm free from   coding, I love to watch some TV series. Currently, I'm working as a <strong>Backend Product Engineer</strong> at <strong>Workduck</strong> and also maintaining an instagram page <strong>CodeAvatar</strong> to mentor other developers about web development.
+      I'm a backend developer based in Bangalore, India with a passion for building SAAS products. I have the ability to design, develop and deploy all the problems with code. When I'm free from   coding, I love to watch some TV series. Currently, I'm working as a <strong>Full Stack Developer</strong> at <strong>Chisel Labs</strong> and also maintaining an instagram page <strong>CodeAvatar</strong> to mentor other developers about web development.
   </samp><br><br>
  
   <p align="center">
