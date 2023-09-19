@@ -25,11 +25,6 @@
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
-<h2 align="center">🐦 Github Statistics </h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RishivikramN&layout=compact&hide=html&theme=jolly" alt="Rishivikram-N" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
 <br/>
 <div align="center"> 
   <img align="right" alt="GIF" src="https://general.stdcdn.com/animation_500_kkcayqws.gif" width="200" height="200" />
