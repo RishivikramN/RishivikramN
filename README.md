@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Rishi</h1>
 <p align="center">
   <samp>
-      I'm a backend developer based in Bangalore, India with a passion for building SAAS products. I have the ability to design, develop and deploy all the problems with code. When I'm free from   coding, I love to watch some TV series. Currently, I'm working as a <strong>Full Stack Developer</strong> at <strong>Chisel Labs</strong> and also maintaining an instagram page <strong>CodeAvatar</strong> to mentor other developers about web development.
+      I'm a dedicated software engineer located in Bangalore, India, driven by my enthusiasm for crafting innovative SAAS solutions. With a knack for end-to-end design and development, I relish tackling complex challenges with code. Beyond the realm of coding, I indulge in my favorite TV series during downtime. Presently, I hold the role of a Full Stack Developer at <strong>Chisel Labs</strong>, where I contribute my skills to the team. Additionally, I'm passionate about mentoring fellow developers in web development through my Instagram page, <strong>CodeAvatar</strong>.
   </samp><br><br>
  
   <p align="center">
